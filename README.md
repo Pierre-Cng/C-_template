@@ -1,2 +1,2 @@
-# C-_template
+# cpp_template
 C++ template configuration
